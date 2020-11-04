@@ -12,5 +12,7 @@ $(document).ready(function () {
     console.log('Work efficiently')
 });
 ```
-### 1.笔记列表
+### 1.记录
+
+[格拉法纳(grafana)入门教程](./work/grafana/grafana.md)
 
