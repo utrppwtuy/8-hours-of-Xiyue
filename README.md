@@ -14,5 +14,6 @@ $(document).ready(function () {
 ```
 ### 1.记录
 
-[格拉法纳(grafana)入门教程](./work/grafana/grafana.md)
+[格拉法纳(grafana)入门教程](./work/grafana/grafana.md) 
+公司项目未谈成，关闭了服务器。将来若工作涉及，再考虑更新。
 
